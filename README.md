@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Stack
 
-<p align="center">🇰🇷 🇦🇺 🇸🇬</p>
+
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
