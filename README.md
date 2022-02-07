@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Stack
+
+<img src="https://img.shields.io/badge/Python-#20c997?style=flat-square&logo=#3776AB&logoColor=white"/></a>
