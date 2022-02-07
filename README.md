@@ -46,3 +46,8 @@ Stack
   <img src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat-square&logo=Tailwind-CSS&logoColor=white"/></a>&nbsp
   
 </p>
+
+
+<h3 align="center"> 🧸 Me 🧸 </h3>
+<p align="center">
+  <a href="https://html-jc.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://html-jc.tistory.com"/></a>&nbsp
